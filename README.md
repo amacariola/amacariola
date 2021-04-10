@@ -2,7 +2,7 @@
 <h3 align="center">A Backend/Linux engineer from Philippines.</h3>
 <h3 align="center"> Cybersecurity Foundation Certified Professional/Scrum Foundation Certified Professional. </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amacariola" alt="amacariola" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amacariola&theme=monokai" alt="amacariola" /></a> </p>
 
 - 🌱 I’m currently learning **Django/Rails/Node**
 
