@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuro</h1>
-<h3 align="center">A Backend/Linux engineer from Philippines.</h3>
+<h3 align="center">An aspiring Backend developer /Linux engineer from Philippines.</h3>
 <h3 align="center"> Cybersecurity Foundation Certified Professional/Scrum Foundation Certified Professional. </h3>
 <p align="center"><img src="https://images.credly.com/size/220x220/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" width="90" height="90" /><img src="https://images.credly.com/size/680x680/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" width="90" height="90"/></p>
 
